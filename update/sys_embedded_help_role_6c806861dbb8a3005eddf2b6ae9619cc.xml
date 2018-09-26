@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_testing_1234.app_table_user" name="x_snc_testing_1234.app_table_user">6c806861dbb8a3005eddf2b6ae9619ca</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>rohith.purumandla@snc</sys_created_by>
+        <sys_created_on>2018-09-26 19:36:09</sys_created_on>
+        <sys_id>6c806861dbb8a3005eddf2b6ae9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6c806861dbb8a3005eddf2b6ae9619ca</sys_name>
+        <sys_package display_value="testing 1234" source="x_snc_testing_1234">ae5c94eddb78a3005eddf2b6ae961914</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testing 1234">ae5c94eddb78a3005eddf2b6ae961914</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6c806861dbb8a3005eddf2b6ae9619cc</sys_update_name>
+        <sys_updated_by>rohith.purumandla@snc</sys_updated_by>
+        <sys_updated_on>2018-09-26 19:36:09</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

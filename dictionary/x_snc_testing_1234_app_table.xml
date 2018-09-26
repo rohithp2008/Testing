@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci" label="App table" max_length="40" name="x_snc_testing_1234_app_table" type="collection"/>
+</database>

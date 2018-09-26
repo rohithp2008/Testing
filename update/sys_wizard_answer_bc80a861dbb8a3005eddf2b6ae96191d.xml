@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>App table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>App table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">506f49c7db1023005eddf2b6ae96190b</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>rohith.purumandla@snc</sys_created_by>
+        <sys_created_on>2018-09-26 19:36:10</sys_created_on>
+        <sys_id>bc80a861dbb8a3005eddf2b6ae96191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App table</sys_name>
+        <sys_package display_value="testing 1234" source="x_snc_testing_1234">ae5c94eddb78a3005eddf2b6ae961914</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testing 1234">ae5c94eddb78a3005eddf2b6ae961914</sys_scope>
+        <sys_update_name>sys_wizard_answer_bc80a861dbb8a3005eddf2b6ae96191d</sys_update_name>
+        <sys_updated_by>rohith.purumandla@snc</sys_updated_by>
+        <sys_updated_on>2018-09-26 19:36:10</sys_updated_on>
+        <table/>
+        <target_url>x_snc_testing_1234_app_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
